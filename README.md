@@ -40,16 +40,4 @@ Este é um sistema simples de controle de atendimento presencial de clientes des
 - Compilador C compatível (por exemplo, GCC)
 - Sistema operacional que suporte a execução de programas em linguagem C
 
-## Imagens Funcionamento
-
-![](img/um.PNG)
-
-![](img/dois.PNG)
-
-![](img/tres.PNG)
-
-![](img/quatro.PNG)
-
-![](img/cinco.PNG)
-
 
