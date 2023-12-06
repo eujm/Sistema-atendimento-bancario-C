@@ -10,31 +10,6 @@ Este é um sistema simples de controle de atendimento presencial de clientes des
 
 - **Consulta de Histórico:** Possibilita a consulta do histórico de atendimentos de um serviço específico, facilitando o acompanhamento ao longo do tempo.
 
-## Como Usar
-
-**\***Arquivo .EXE incluido**\***
-
-1. **Compilação:**
-
-   - Compile o código-fonte utilizando um compilador C compatível com o seu sistema. Por exemplo:
-     ```bash
-     gcc main.c -o sistema_atendimento
-     ```
-
-2. **Execução:**
-
-   - Execute o programa gerado:
-     ```bash
-     ./sistema_atendimento
-     ```
-
-3. **Interatividade:**
-
-   - O sistema será interativo, apresentando opções de menu para navegação.
-
-4. **Aprimoramentos e Contribuições:**
-   - Este sistema pode ser aprimorado com novas funcionalidades ou otimizações. Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests.
-
 ## Requisitos
 
 - Compilador C compatível (por exemplo, GCC)
