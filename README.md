@@ -1,6 +1,6 @@
 # Sistema de Controle de Atendimento Presencial de Clientes em C
 
-Este é um sistema simples de controle de atendimento presencial de clientes desenvolvido em linguagem C. O sistema foi criado para facilitar a gestão e organização de atendimentos em estabelecimentos que lidam com clientes presencialmente, como lojas, escritórios, ou qualquer outro ambiente que necessite de um controle eficiente de atendimento.
+Este é um sistema simples de controle de atendimento presencial de clientes desenvolvido em linguagem C para a atividade de ensino da Unicesumar. O sistema foi criado para facilitar a gestão e organização de atendimentos em estabelecimentos que lidam com clientes presencialmente, como lojas, escritórios, ou qualquer outro ambiente que necessite de um controle eficiente de atendimento.
 
 ## Funcionalidades
 
